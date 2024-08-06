@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://soaroc.github.io/sitemap.xml
