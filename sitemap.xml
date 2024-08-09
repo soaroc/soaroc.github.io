@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://soaroc.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://soaroc.github.io/blogs/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/categories/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/tags/gaussian-splatting/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/blogs/3dgs/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/tags/nerf/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/blogs/nerf/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/tags/neural-rendering/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/search/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/series/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/tags/</loc>
+  </url>
+</urlset>
