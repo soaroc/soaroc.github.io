@@ -19,12 +19,5 @@
       <guid>https://soaroc.github.io/blogs/3dgs/</guid>
       <description>针对Gaussian Splatting原论文相关细节的介绍.</description>
     </item>
-    <item>
-      <title>NeRF</title>
-      <link>https://soaroc.github.io/blogs/nerf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://soaroc.github.io/blogs/nerf/</guid>
-      <description>针对NeRF原论文相关细节的介绍.</description>
-    </item>
   </channel>
 </rss>
