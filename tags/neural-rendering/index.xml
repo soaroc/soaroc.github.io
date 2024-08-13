@@ -11,15 +11,7 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Aug 2024 13:52:24 +0800</lastBuildDate>
     <atom:link href="https://soaroc.github.io/tags/neural-rendering/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Volume Rendering in NeRF</title>
-      <link>https://soaroc.github.io/blogs/vol_render_in_nerf/</link>
-      <pubDate>Mon, 12 Aug 2024 13:52:24 +0800</pubDate>
-      <guid>https://soaroc.github.io/blogs/vol_render_in_nerf/</guid>
-      <description>NeRF中的体渲染介绍</description>
-    </item>
     <item>
       <title>Gaussian Splatting</title>
       <link>https://soaroc.github.io/blogs/3dgs/</link>
