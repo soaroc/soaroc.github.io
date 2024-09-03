@@ -13,10 +13,31 @@
     <language>en</language>
     <atom:link href="https://soaroc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3D Reconstruction</title>
+      <link>https://soaroc.github.io/tags/3d-reconstruction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://soaroc.github.io/tags/3d-reconstruction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diffusion Model</title>
+      <link>https://soaroc.github.io/tags/diffusion-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://soaroc.github.io/tags/diffusion-model/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Gaussian Splatting</title>
       <link>https://soaroc.github.io/tags/gaussian-splatting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://soaroc.github.io/tags/gaussian-splatting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Generation</title>
+      <link>https://soaroc.github.io/tags/image-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://soaroc.github.io/tags/image-generation/</guid>
       <description></description>
     </item>
     <item>

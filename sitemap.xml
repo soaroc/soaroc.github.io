@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://soaroc.github.io/blogs/3dgs/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/tags/3d-reconstruction/</loc>
+  </url><url>
     <loc>https://soaroc.github.io/blogs/</loc>
   </url><url>
     <loc>https://soaroc.github.io/categories/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/tags/diffusion-model/</loc>
   </url><url>
     <loc>https://soaroc.github.io/blogs/diffusion_model/</loc>
   </url><url>
     <loc>https://soaroc.github.io/tags/gaussian-splatting/</loc>
   </url><url>
-    <loc>https://soaroc.github.io/blogs/3dgs/</loc>
+    <loc>https://soaroc.github.io/tags/image-generation/</loc>
   </url><url>
     <loc>https://soaroc.github.io/tags/neural-rendering/</loc>
   </url><url>
