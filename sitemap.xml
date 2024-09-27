@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://soaroc.github.io/blogs/</loc>
+    <lastmod>2024-09-03T15:27:53+08:00</lastmod>
+  </url><url>
+    <loc>https://soaroc.github.io/</loc>
+    <lastmod>2024-09-03T15:27:53+08:00</lastmod>
+  </url><url>
     <loc>https://soaroc.github.io/blogs/3dgs/</loc>
   </url><url>
     <loc>https://soaroc.github.io/tags/3d-reconstruction/</loc>
-  </url><url>
-    <loc>https://soaroc.github.io/blogs/</loc>
   </url><url>
     <loc>https://soaroc.github.io/categories/</loc>
   </url><url>
@@ -24,9 +28,11 @@
   </url><url>
     <loc>https://soaroc.github.io/series/</loc>
   </url><url>
-    <loc>https://soaroc.github.io/</loc>
-  </url><url>
     <loc>https://soaroc.github.io/tags/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/blogs/video_diffusion_model/</loc>
+  </url><url>
+    <loc>https://soaroc.github.io/tags/video-generation/</loc>
   </url><url>
     <loc>https://soaroc.github.io/blogs/vol_render_in_nerf/</loc>
   </url>
