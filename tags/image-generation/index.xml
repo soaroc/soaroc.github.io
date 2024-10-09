@@ -17,7 +17,7 @@
       <link>https://soaroc.github.io/blogs/diffusion_model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://soaroc.github.io/blogs/diffusion_model/</guid>
-      <description>介绍了DPM和SMDL两种不同扩散模型流派，以及两者之间的关联</description>
+      <description>扩散模型基本原理以及经典工作介绍</description>
     </item>
   </channel>
 </rss>
