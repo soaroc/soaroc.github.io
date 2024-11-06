@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Image Generation on Soaroc&#39;s Log</title>
-    <link>https://soaroc.github.io/tags/image-generation/</link>
-    <description>Recent content in Image Generation on Soaroc&#39;s Log</description>
+    <title>Image Edit on Soaroc&#39;s Log</title>
+    <link>https://soaroc.github.io/tags/image-edit/</link>
+    <description>Recent content in Image Edit on Soaroc&#39;s Log</description>
     <image>
       <title>Soaroc&#39;s Log</title>
       <url>https://soaroc.github.io/images/papermod-cover.png</url>
@@ -11,14 +11,7 @@
     </image>
     <generator>Hugo -- 0.132.1</generator>
     <language>en</language>
-    <atom:link href="https://soaroc.github.io/tags/image-generation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Diffusion Models</title>
-      <link>https://soaroc.github.io/blogs/diffusion_model/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://soaroc.github.io/blogs/diffusion_model/</guid>
-      <description>扩散模型基本原理以及经典工作介绍</description>
-    </item>
+    <atom:link href="https://soaroc.github.io/tags/image-edit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Image Edit and Personalized Generation</title>
       <link>https://soaroc.github.io/blogs/personalized_image_generation/</link>
